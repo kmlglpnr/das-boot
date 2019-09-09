@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 public class ShipwreckStub {
+    // Shipwreck Model Logic
     private static Map<Long, Shipwreck> wrecks = new HashMap<Long, Shipwreck>();
     private static Long idIndex = 3L;
 
